@@ -1,5 +1,50 @@
+### 🛠️ Stats & Skills
+
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td valign="top" width="50%">
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kavae550)](https://solved.ac/kavae550/)
 
-#### 안녕하세요
+</td>
+<td valign="top" width="50%" style="padding-left: 20px;">
+<p>
+  <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=openjdk&logoColor=white"> 
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=flat-square&logo=SpringBoot&logoColor=white"> 
 
-SSAFY 13기 이종환입니다. 잘 부탁드려요
+</p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-D9281A?style=flat-square&logo=Redis&logoColor=white">
+<img src="https://img.shields.io/badge/docker-2668EF?style=flat-square&logo=docker&logoColor=white"> 
+<p>
+  
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/ElasticSearch-005571?logo=elasticsearch&logoColor=white">
+<img src="https://img.shields.io/badge/Kibana-%23005571?logo=kibana&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-%23000000?logo=Ollama&logoColor=white">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+</p>
+
+
+
+
+
+
+</td>
+</tr>
+</table>
+
+---
+안녕하세요
+
+### Experience
+- 삼성청년 SW AI 아카데미 SSAFY 13th - 2025.01.07 ~ 진행중
+---
